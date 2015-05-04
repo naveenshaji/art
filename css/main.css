@@ -46,6 +46,7 @@ p {
 .img-card {
     background: #eee;
     padding: 30px;
+    padding-bottom: 50px;
     display: inline-block;
     width: 25%;
     height: 400px;
